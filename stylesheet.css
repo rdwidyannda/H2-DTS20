@@ -38,9 +38,9 @@ header{
 }
 
 .menu-icon{
-  float:right;
-  color:white;
-  font-size:25px;
+  float: right;
+  color: white;
+  font-size: 25px;
   padding: 21px 0;
   display: none;
 }
