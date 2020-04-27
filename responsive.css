@@ -25,12 +25,13 @@
   }
 
   .header-right{
-    display:none;
+    display: none;
   }
   
   .menu-icon{
-    display:block;
+    display: block;
   }
+  
   .footer{
     text-align: center;
   }
