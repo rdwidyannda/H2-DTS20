@@ -29,7 +29,11 @@
   }
   
   .menu-icon{
-    display: block;
+    display: inline-block;
+  }
+  
+  .learn-more{
+    text-align: center;
   }
   
   .footer{
