@@ -37,6 +37,14 @@ header{
   float: left;
 }
 
+.menu-icon{
+  float:right;
+  color:white;
+  font-size:25px;
+  padding: 21px 0;
+  display: none;
+}
+
 .header-right{
   float: right;
   transition: all 0.5s;
