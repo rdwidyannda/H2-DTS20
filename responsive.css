@@ -4,6 +4,10 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  
+  .lesson{
+  width:100%
+}
 
   .top-wrapper h1{
     font-size: 32px;
