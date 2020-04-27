@@ -1,0 +1,221 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: "Lucida Grande"
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  max-width: 1170px;
+  width:100%;
+  padding:0 15px;
+  margin: 0 auto;
+}
+
+header{
+  height: 65px;
+  width: 100%;
+  background-color: rgba(126, 214, 223 ,0.5);
+  position:fixed;
+  top: 0px;
+  z-index: 10;
+}
+
+.logo{
+  height: 50px;
+  padding-top:15px;
+  float: left;
+}
+
+.header-right{
+  float: right;
+  transition: all 0.5s;
+}
+
+.home:hover{
+  background-color: rgba(126, 214, 223 ,0.8);
+}
+
+.about:hover{
+  background-color: rgba(126, 214, 223 ,0.8);
+}
+
+.team:hover{
+  background-color: rgba(126, 214, 223 ,0.8);
+}
+
+.sign-up:hover{
+  background-color: rgba(126, 214, 223 ,0.8);
+}
+
+.btn{
+  line-height: 65px;
+  padding: 0 25px;
+  display: inline-block;
+}
+
+.sign-up{
+  margin-right: 50px;
+}
+
+.learn-more{
+  background-color: rgba(126, 214, 223 ,0.8);
+  border-radius: 4px;
+  line-height: 50px;
+  padding: 0 25px;
+  display: inline-block;
+  margin-top: 40px;
+  box-shadow: 0 7px #60a3bc;
+}
+
+.learn-more:hover{
+  background-color: rgba(126, 214, 223 ,1);
+}
+
+.learn-more a{
+  color: #535c68;
+  font-weight: bold;
+}
+
+.learn-more:active{
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+.header-right a{
+  color: #535c68;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://images.assetsdelivery.com/compings_v2/maximleshkovich/maximleshkovich1709/maximleshkovich170900182.jpg);
+  background-size: cover;
+  color: #4b4b4b;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.team-wrapper{
+  height:400px;
+  padding-bottom:80px;
+  background-color: #82ccdd;
+  text-align: center;
+}
+
+.heading{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2{
+  font-weight: normal;
+}
+
+.txt-name {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #5f5d60;
+  font-weight: bold;
+}
+
+.member{
+  width:25%;
+  float: left;
+}
+
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.lesson {
+  float: left;
+  width: 33.33%;
+
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 30px;
+  font-size: 20px;
+  color: #b3aeb5;
+}
+
+.message-wrapper {
+  padding-bottom: 80px;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.btn-wrapper{
+  margin: 30px 0;
+}
+
+.btn-wrapper p {
+  margin: 15px 0;
+}
+
+.klik{
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+
+.signup {
+  background-color: #239b76;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.klik:hover{
+  opacity:1;
+}
+
+.heading h3{
+  font-weight: normal;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+footer img{
+ width: 125px;
+}
+
+footer p{
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer{
+  padding-top: 30px;
+}
