@@ -42,7 +42,8 @@ header{
   color: white;
   font-size: 25px;
   display: none;
-  padding: 21px 0;
+  padding-top: 15px;
+  height: 50px;
 }
 
 .header-right{
