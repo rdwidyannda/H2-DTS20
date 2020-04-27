@@ -72,6 +72,10 @@ header{
   display: inline-block;
 }
 
+.sign-up{
+  margin-right: 25px;
+}
+
 .learn-more{
   background-color: rgba(126, 214, 223 ,0.8);
   border-radius: 4px;
